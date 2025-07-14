@@ -54,7 +54,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 <p align="center">
   <a href="https://github.com/Joshuamambo1">
-    <img src="[https://github.com/TanyaMashamba01.png](https://files.catbox.moe/cik12y.jpg)" width="200" height="200" alt="JOSHUA MAMBO"/>
+    <img src="(https://files.catbox.moe/cik12y.jpg)" width="200" height="200" alt="JOSHUA MAMBO"/>
   </a>
 </p>
 
