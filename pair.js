@@ -75,11 +75,11 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "drakonis~" + string_session;
+                        let md = "zandile~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, Zandile-MD User!* 👋🏻
+                        let desc = `*Hey there, JOSHUAMAMBO1-XMD User!* 👋🏻
 
-Thanks for using *Zandile-MD* — your session has been successfully created!
+Thanks for using *ZANDILE-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -92,7 +92,7 @@ https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/Joshuamambo1/Zandile-MD 
+https://github.com/Joshuamambo1/ZANDILE-MD 
 
 ——————
 
