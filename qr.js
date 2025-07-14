@@ -72,9 +72,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "zandile~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, ZANDILE-MD User!* 👋🏻
+                        let desc = `*Hey there, JOSHUAMAMBO1-XMD User!* 👋🏻
 
-Thanks for using *ZANDILE-MD* — your session has been successfully created!
+Thanks for using *JOSHUAMAMBO1-XMD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
