@@ -13,7 +13,7 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function DRAKONIS_MD_PAIR_CODE() {
+    async function ZANDILE_MD_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -77,9 +77,9 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "drakonis~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, Drakonis-MD User!* 👋🏻
+                        let desc = `*Hey there, Zandile-MD User!* 👋🏻
 
-Thanks for using *Drakonis-MD* — your session has been successfully created!
+Thanks for using *Zandile-MD* — your session has been successfully created!
 
 🔐 *Session ID:* Sent above  
 ⚠️ *Keep it safe!* Do NOT share this ID with anyone.
@@ -88,23 +88,23 @@ Thanks for using *Drakonis-MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T
 
 *💻 Source Code:*  
 Fork & explore the project on GitHub:  
-https://github.com/NaCkS-ai/Drakonis-MD 
+https://github.com/Joshuamambo1/Zandile-MD 
 
 ——————
 
-> *© Powered by Dev Sung*
+> *© Powered by Dev Mamboj*
 Stay cool and hack smart. ✌🏻`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://files.catbox.moe/bi8y88.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+title: "ᴢᴀɴᴅɪʟᴇ-ᴍᴅ",
+thumbnailUrl: "https://files.catbox.moe/cik12y.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -113,7 +113,7 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `Hey there, Drakonis-MD User!* 👋🏻
+                            let desc = `Hey there, Zandile-MD User!* 👋🏻
 
 Thanks for using *Drakonis-MD* — your session has been successfully created!
 
